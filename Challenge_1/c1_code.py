@@ -1,5 +1,4 @@
-# build up lst as we parse
-
+# puzzle 1
 def max_calories(path):
 	calorie_lst = []
 
@@ -17,6 +16,7 @@ def max_calories(path):
 	# f.read().split('\n\n') built-ins O(n) time anyways... we can get more efficient control on our own
 	# could also split into paragraphs & stop summing if > max, but likely not always more efficient (two O(n) processes)
 
+# puzzle 2
 def top_three_calories(path):
 	max_lst = []
 
