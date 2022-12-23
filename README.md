@@ -1,7 +1,8 @@
 # Advent of Code 2022
 Solution ranking:
-i. challenge 5
-ii. challenge 4
-iii. challenge 1
-iv. challenge 3
-v. challenge 2
+I. challenge 5
+II. challenge 6
+III. challenge 4
+IV. challenge 1
+V. challenge 3
+VI. challenge 2
